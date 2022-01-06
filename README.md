@@ -1,2 +1,2 @@
-# paintjs2
-Painting board with vanilla js
+# paintJS__alone
+making it without any help
